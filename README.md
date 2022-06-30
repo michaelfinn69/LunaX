@@ -3,7 +3,8 @@ Roblox hub for multiple games.
 
 Games that will be supported:
 
-Criminality,
-Combat Warriors,
+- Criminality,
+- Combat Warriors,
+will be adding more in the future now stfu
 
-Will be adding more in the future.
+wip still
