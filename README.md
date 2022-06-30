@@ -1,4 +1,4 @@
-# FriendHub 
+# LunarHub
 Roblox hub for multiple games.
 
 Games that will be supported:
