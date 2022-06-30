@@ -1,5 +1,4 @@
-# FriendHub
-We will 
+# FriendHub 
 Roblox hub for multiple games.
 
 Games that will be supported:
