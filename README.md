@@ -1,6 +1,10 @@
 # LunarHub
 Roblox hub for multiple games.
 
+Games that are currently supported:
+- Prison Life
+- Ninja Legends
+
 Games that will be supported soon:
 
 - Criminality,
@@ -8,8 +12,6 @@ Games that will be supported soon:
 - Prison Life
 - Ninja Legends
 
-Games that are currently supported:
-- Prison Life
 
 will be adding more in the future now stfu
 
