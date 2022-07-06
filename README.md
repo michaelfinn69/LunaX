@@ -5,6 +5,7 @@ Games that will be supported:
 
 - Criminality,
 - Combat Warriors,
+- Prison Life
 
 will be adding more in the future now stfu
 
