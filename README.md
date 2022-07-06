@@ -1,4 +1,4 @@
-# LunarHub
+# Luna X
 # Made by Michael & Ghxst
 Roblox hub for multiple games.
 
