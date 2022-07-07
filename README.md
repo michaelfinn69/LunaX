@@ -1,17 +1,12 @@
 # Luna X
-# Made by Michael & Ghxst
+# 
 Roblox hub for multiple games.
 
 Games that are currently supported:
-- Prison Life
-- Ninja Legends
+- Prison Life | PLACE ID: 155615604
+- Ninja Legends | PLACE ID: 3956818381
 
 Games that will be supported soon:
 
-- Criminality,
-- Combat Warriors,
-
-
-will be adding more in the future now stfu
-
-wip still
+- Criminality | PLACE ID: 4588604953
+- Combat Warriors | PLACE ID: 4282985734
