@@ -1,5 +1,5 @@
 # Luna X
-# 
+# Luna X has been Released
 Roblox hub for multiple games.
 
 Games that are currently supported:
