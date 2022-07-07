@@ -1,1 +1,8 @@
---lunarhub wont be released untill i get a good obfusccator so yeah 
+if game.PlaceId == 155615604 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/michaelfinn69/LunaX/main/prisonlife-obfuscated"))()
+    print("Luna X for Prison Life has succesfully Loaded")
+
+elseif game.PlaceId == 3956818381 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/michaelfinn69/LunaX/main/ninjalegends-obfuscated"))()
+    print("Luna X for Ninja Legends has succesfully Loaded")
+end
