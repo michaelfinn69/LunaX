@@ -1,6 +1,6 @@
 # Luna X
-# Luna X has been Released
-Roblox hub for multiple games.
+# Roblox Hub for multiple games.
+We have finally Released Prison Life & Ninja Legends, all Obfuscated
 
 Games that are currently supported:
 - Prison Life | PLACE ID: 155615604
