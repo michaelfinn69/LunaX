@@ -10,3 +10,7 @@ Games that will be supported soon:
 
 - Criminality | PLACE ID: 4588604953
 - Combat Warriors | PLACE ID: 4282985734
+
+Credits:
+- $ layla#0001 | Developer
+- Ghxst#1317 | Developer
