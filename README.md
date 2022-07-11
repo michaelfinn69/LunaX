@@ -1,6 +1,5 @@
 # Luna X
 # Roblox Hub for multiple games.
-We have finally Released Prison Life & Ninja Legends, all Obfuscated
 
 Games that are currently supported:
 - Prison Life | PLACE ID: 155615604
@@ -13,5 +12,5 @@ Games that will be supported soon:
 - Da hood | PLACE ID: 2788229376
 
 Credits:
-- $ layla#0001 | Developer
+- $ layla#0001 | Main Developer
 - Ghxst#1317 | Developer
