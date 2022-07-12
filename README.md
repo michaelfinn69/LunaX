@@ -12,5 +12,5 @@ Games that will be supported soon:
 - Da hood | PLACE ID: 2788229376
 
 Credits:
-- $ layla#0001 | Main Developer
+- $ michael#0001 | Main Developer
 - Ghxst#1317 | Developer
