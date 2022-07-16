@@ -5,4 +5,7 @@ if game.PlaceId == 155615604 then
 elseif game.PlaceId == 3956818381 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/michaelfinn69/LunaX/main/ninjalegends-obfuscated"))()
     print("Luna X for Ninja Legends has succesfully Loaded")
+
+elseif game.PlaceId == 2248408710 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/michaelfinn69/LunaX/main/destructionsimulator_obfuscated")())
 end
