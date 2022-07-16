@@ -1,4 +1,4 @@
 --[[
-    Obfuscated using Prometheus Alpha v0.2 by levno-710
+    Luna X Loader
 ]]
 local n="https://raw.githubusercontent.com/michaelfinn69/LunaX/main/Files_Obfuscated/"if game.PlaceId==155615604 then local m=(loadstring(game:HttpGet(n.."prisonlife")))()print("Luna X for Prison Life has Succesfully Loaded..")elseif game.PlaceId==3956818381 then local m=(loadstring(game:HttpGet(n.."ninjalegends")))()print("Luna X for Ninja Legends has Succesfully Loaded..")elseif game.PlaceId==2248408710 then local m=(loadstring(game:HttpGet(n.."destructionsimulator")))()print("Luna X for Destruction Simulator has sucesfully Loaded..")end
