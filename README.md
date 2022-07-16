@@ -4,6 +4,7 @@
 Games that are currently supported:
 - Prison Life | PLACE ID: 155615604
 - Ninja Legends | PLACE ID: 3956818381
+- Destruction Simulator | PLACE ID: 2248408710
 
 Games that will be supported soon:
 
