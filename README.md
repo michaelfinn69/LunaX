@@ -10,6 +10,8 @@ Games that will be supported soon:
 
 - Criminality | PLACE ID: 4588604953
 - Combat Warriors | PLACE ID: 4282985734
+- Anomic Original | PLACE ID: 4581966615 
+- Anomic Revamp | PLACE ID: 6400572259
 
 Credits:
 - $ michael#0001 | Main Developer
