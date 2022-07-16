@@ -1,11 +1,12 @@
 if game.PlaceId == 155615604 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/michaelfinn69/LunaX/main/prisonlife_obfuscated"))()
-    print("Luna X for Prison Life has succesfully Loaded")
+    print("Luna X for Prison Life has Succesfully Loaded")
 
 elseif game.PlaceId == 3956818381 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/michaelfinn69/LunaX/main/ninjalegends-obfuscated"))()
-    print("Luna X for Ninja Legends has succesfully Loaded")
+    print("Luna X for Ninja Legends has Succesfully Loaded")
 
 elseif game.PlaceId == 2248408710 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/michaelfinn69/LunaX/main/destructionsimulator_obfuscated")())
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/michaelfinn69/LunaX/main/destructionsimulator_obfuscated"))()
+    print("Luna X for Destruction Simulator has Succesfully Loaded")
 end
