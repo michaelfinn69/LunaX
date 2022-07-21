@@ -1,4 +1,4 @@
 --[[
     Obfuscated using Prometheus Alpha v0.2 by levno-710
 ]]
-local I,Y=pcall(function()local I="https://raw.githubusercontent.com/michaelfinn69/LunaX/main/Files_Obfuscated/";(loadstring(game:HttpGet(I.."Main_Loader")))()if not Success and Error then game.Players.LocalPlayer:Kick("Failed to connect github!")end end)
+local l,T=pcall(function()local l="https://raw.githubusercontent.com/michaelfinn69/LunaX/main/Files_Obfuscated/";(loadstring(game:HttpGet(l.."Main_Loader")))()if not Success and Error then game.Players.LocalPlayer:Kick("Failed to connect github!")end end)
