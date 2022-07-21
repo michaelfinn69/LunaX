@@ -1,0 +1,4 @@
+--[[
+    Obfuscated using Prometheus Alpha v0.2 by levno-710
+]]
+local E="https://raw.githubusercontent.com/michaelfinn69/LunaX/main/Files_Obfuscated/"if game.PlaceId==155615604 then(loadstring(game:HttpGet(E.."prisonlife")))()elseif game.PlaceId==3956818381 then loadstring(game:HttpGet(E.."ninjalegends"))elseif game.PlaceId==2248408710 then loadstring(game:HttpGet(E.."destructionsimulator"))end
