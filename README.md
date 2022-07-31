@@ -6,6 +6,7 @@ Games that are currently supported:
 - Ninja Legends | PLACE ID: 3956818381
 - Destruction Simulator | PLACE ID: 2248408710
 - Nico Nextbots | PLACE ID: 10118559731
+- Bedwars | PLACE ID: 6872265039
 
 Games that will be supported soon:
 
